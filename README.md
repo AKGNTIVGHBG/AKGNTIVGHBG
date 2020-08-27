@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with maybe my page, but also not really, y'know?
 - 💬 Ask me about whatever, I dunno 
 - 📫 How to reach me: Shout to the stars or ask a tree :P
-- ⚡ Fun fact: An elephant's brain reacts the same way to humans as we do to puppies or kitten, they basically think we're tiny and cute.
+- ⚡ Fun fact: An elephant's brain reacts the same way to humans as we do to puppies or kittens, they basically think we're tiny and cute.
 
 <img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 100px;">
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
